@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Las Galaxias</title>
+</head>
+<body>
+
+<h1>LAS GALAXIAS</h1>
+	<body>
+        <br>
+    <FONT COLOR="cyan">
+        <li><a href=><br>
+            <FONT COLOR="cyan">¿QUE SON? </FONT>
+            <br></a></li> 
+        <li><a href=><br>
+            <FONT COLOR="cyan">TELESCOPIO ESPACIAL HUBBLE </FONT>
+            <br></a></li>  
+        <li><a href=><br>
+            <FONT COLOR="cyan">VIA LACTEA </FONT>
+            <br></a></li>
+    </FONT>
+        <br>
+    </body>
+<style>
+    body{
+        background-color: rgb(81, 14, 129);
+    }
+</style>
+<section> 
+        <h2>¿QUÉ SON?</h2>
+        <p>Una galaxia es un conjunto de gases, polvo y miles de millones de estrellas y sus sistemas solares. La galaxia se mantiene unida gracias a la fuerza de gravedad. Nuestra galaxia, la Vía Láctea, también tiene un agujero negro supermasivo en el medio.</p> 
+        <h2>TELESCOPIO ESPACIAL HUBBLE</h2>
+        <img src="gala.jpg">
+        <p>El  observó una pequeña porción del espacio durante 12 días y descubrió 10 000 galaxias de todo los tamaños, formas y colores. Algunos científicos creen que podría haber unos  de galaxias en el universo.</p>
+        <video controls src="ga.mp4"> </video>
+        <h2>VIA LACTEA</h2>
+        <p>Nuestra Vía Láctea algún día chocará con Andrómeda, nuestro vecino galáctico más cercano. Pero no te preocupes: faltan como cinco mil millones de años para que eso suceda, y aunque sucediera mañana mismo, puede que ni te des cuenta. Las galaxias son tan grandes y están tan expandidas en los extremos que, aunque se choquen entre sí, los planetas y los sistemas solares a menudo no llegan a colisionar.</p> 
+</section> 
+<footer> 
+        <p>&copy; 2024 La Galaxia. Alex Maisincho 2do. BT. Todos los derechos reservados.</p> 
+    </footer> 
+</body>
+</html>
